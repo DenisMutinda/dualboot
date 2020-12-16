@@ -1,0 +1,20 @@
+{
+   "color_pick_btn": {
+      "message": "Pick color"
+   },
+   "description": {
+      "message": "kulay-extract madali mula sa mga webpage na may kulay picker tool"
+   },
+   "dominant_color": {
+      "message": "Dominant color"
+   },
+   "name": {
+      "message": "Getcolor"
+   },
+   "select_color": {
+      "message": "Select color"
+   },
+   "selected_color": {
+      "message": "Selected color"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "color_pick_btn": {
+      "message": "Pick color"
+   },
+   "description": {
+      "message": "വർണ്ണ പിക്കർ ഉപകരണം ഉപയോഗിച്ച് എളുപ്പത്തിൽ വെബ്പേജുകളിൽ നിന്നുള്ള നിറങ്ങൾ ലഭ്യമാക്കി"
+   },
+   "dominant_color": {
+      "message": "Dominant color"
+   },
+   "name": {
+      "message": "ഗെത്ചൊലൊര്"
+   },
+   "select_color": {
+      "message": "Select color"
+   },
+   "selected_color": {
+      "message": "Selected color"
+   }
+}

@@ -1,0 +1,18 @@
+2020/12/15-20:50:23.484 24b Reusing MANIFEST /home/kv3ldulf/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2020/12/15-20:50:23.485 24b Recovering log #39
+2020/12/15-20:50:23.486 24b Reusing old log /home/kv3ldulf/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000039.log 
+2020/12/15-20:50:31.299 233 Level-0 table #43: started
+2020/12/15-20:50:31.305 233 Level-0 table #43: 17399 bytes OK
+2020/12/15-20:50:31.309 233 Delete type=0 #39
+2020/12/16-17:56:05.241 3039a Level-0 table #45: started
+2020/12/16-17:56:05.246 3039a Level-0 table #45: 16944 bytes OK
+2020/12/16-17:56:05.251 3039a Delete type=0 #42
+2020/12/16-17:56:05.252 2fba5 Compacting 4@0 + 1@1 files
+2020/12/16-17:56:05.262 2fba5 Generated table #46@0: 1637 keys, 37436 bytes
+2020/12/16-17:56:05.263 2fba5 Compacted 4@0 + 1@1 files => 37436 bytes
+2020/12/16-17:56:05.265 2fba5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/16-17:56:05.266 2fba5 Delete type=2 #43
+2020/12/16-17:56:05.266 2fba5 Delete type=2 #34
+2020/12/16-17:56:05.266 2fba5 Delete type=2 #37
+2020/12/16-17:56:05.266 2fba5 Delete type=2 #45
+2020/12/16-17:56:05.266 2fba5 Delete type=2 #40

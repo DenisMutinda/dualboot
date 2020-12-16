@@ -1,0 +1,20 @@
+{
+   "color_pick_btn": {
+      "message": "Pick color"
+   },
+   "description": {
+      "message": "색상 선택 도구를 사용하여 웹 페이지에서 쉽게 추출 색"
+   },
+   "dominant_color": {
+      "message": "Dominant color"
+   },
+   "name": {
+      "message": "getColor에서"
+   },
+   "select_color": {
+      "message": "Select color"
+   },
+   "selected_color": {
+      "message": "Selected color"
+   }
+}

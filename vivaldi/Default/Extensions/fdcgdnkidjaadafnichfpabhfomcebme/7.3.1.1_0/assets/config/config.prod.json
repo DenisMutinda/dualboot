@@ -1,0 +1,48 @@
+{
+    "env": {
+      "name": "PRODUCTION"
+    },
+    "api": {
+        "url": "https://apiv2.zenguard.biz/v2",
+        "key": "ZMEx4hfuto83htix763jf9cz3n59f73v659f"
+    },
+    "apiv1": {
+        "url": "https://api.zenguard.biz/cg",
+        "key": "ZMEx4hfuto83htix763jf9cz3n59f73v659f"
+    },
+    "blockChainRPCNode": [
+      "https://api.myetherwallet.com/rop",
+      "https://ropsten.infura.io/v3/74c324cc4f75481d817e2cfd606f703d"
+    ],
+  "blockchainFallback": true,
+  "enforceLogin": false,
+  "accountUrl": "https://account.zenmate.com/",
+  "websiteUrl": "https://zenmate.com/",
+  "supportUrl": "https://zenguard.zendesk.com/hc/",
+  "marketingFile_original": "default.json",
+  "marketingFile": "default.json",
+  "queueFile": "queue.json",
+  "feedbackUrl": "https://feedback.zenmate.com/v2/",
+  "domain": ".zenmate.com",
+  "availableLangs": [
+    "en",
+    "de",
+    "tr",
+    "fr",
+    "es",
+    "nl",
+    "ko",
+    "ru"
+  ],
+  "campaign": "default",
+  "triggerCampaignCount": 10,
+  "triggerRating": {
+    "free": 2,
+    "guest": 2,
+    "trialExpired": 3,
+    "trial": 3,
+    "pro": 4,
+    "ultimate": 4
+  },
+  "additionalLocations": []
+}

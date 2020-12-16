@@ -1,0 +1,20 @@
+{
+   "color_pick_btn": {
+      "message": "Pick color"
+   },
+   "description": {
+      "message": "從顏色選擇器工具，網頁提取的顏色容易"
+   },
+   "dominant_color": {
+      "message": "Dominant color"
+   },
+   "name": {
+      "message": "Getcolor"
+   },
+   "select_color": {
+      "message": "Select color"
+   },
+   "selected_color": {
+      "message": "Selected color"
+   }
+}

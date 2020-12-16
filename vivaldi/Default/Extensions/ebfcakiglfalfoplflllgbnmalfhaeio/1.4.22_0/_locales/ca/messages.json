@@ -1,0 +1,20 @@
+{
+   "color_pick_btn": {
+      "message": "Pick color"
+   },
+   "description": {
+      "message": "Extracte de colors fàcilment des de pàgines web amb l'eina de selecció de color"
+   },
+   "dominant_color": {
+      "message": "Dominant color"
+   },
+   "name": {
+      "message": "Getcolor"
+   },
+   "select_color": {
+      "message": "Select color"
+   },
+   "selected_color": {
+      "message": "Selected color"
+   }
+}

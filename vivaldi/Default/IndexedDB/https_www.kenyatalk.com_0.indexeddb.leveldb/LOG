@@ -1,0 +1,26 @@
+2020/12/04-10:57:26.020 171f2 Reusing MANIFEST /home/kv3ldulf/.config/vivaldi/Default/IndexedDB/https_www.kenyatalk.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-10:57:26.020 171f2 Recovering log #406
+2020/12/04-10:57:26.021 171f2 Reusing old log /home/kv3ldulf/.config/vivaldi/Default/IndexedDB/https_www.kenyatalk.com_0.indexeddb.leveldb/000406.log 
+2020/12/04-10:57:41.982 17a62 Level-0 table #412: started
+2020/12/04-10:57:41.985 17a62 Level-0 table #412: 532 bytes OK
+2020/12/04-10:57:41.988 17a62 Delete type=0 #406
+2020/12/04-10:57:41.989 17a62 Manual compaction at level-0 from '\x00q\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00r\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/12/04-10:57:43.985 171f2 Level-0 table #414: started
+2020/12/04-10:57:43.990 171f2 Level-0 table #414: 218 bytes OK
+2020/12/04-10:57:43.995 171f2 Delete type=0 #411
+2020/12/04-10:57:43.995 171f2 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 1987 : 0
+2020/12/04-10:57:43.995 171f2 Compacting 1@0 + 1@1 files
+2020/12/04-10:57:43.999 171f2 Generated table #415@0: 7 keys, 503 bytes
+2020/12/04-10:57:43.999 171f2 Compacted 1@0 + 1@1 files => 503 bytes
+2020/12/04-10:57:44.002 171f2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/04-10:57:44.003 171f2 Delete type=2 #414
+2020/12/04-10:57:44.003 171f2 Delete type=2 #412
+2020/12/04-10:57:44.004 171f2 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 1987 : 0 .. (end); will stop at (end)
+2020/12/04-10:57:44.004 171f2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x1b\x00h\x00t\x00t\x00p\x00s\x00_\x00w\x00w\x00w\x00.\x00k\x00e\x00n\x00y\x00a\x00t\x00a\x00l\x00k\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x1c\x00m\x00o\x00d\x00e\x00r\x00n\x00i\x00z\x00r\x00-\x000\x00.\x005\x003\x001\x008\x000\x006\x004\x002\x005\x003\x008\x001\x002\x001\x000\x007' @ 1977 : 0
+2020/12/04-10:57:44.004 171f2 Compacting 1@1 + 1@2 files
+2020/12/04-10:57:44.007 171f2 Generated table #416@1: 38 keys, 941 bytes
+2020/12/04-10:57:44.007 171f2 Compacted 1@1 + 1@2 files => 941 bytes
+2020/12/04-10:57:44.011 171f2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/04-10:57:44.011 171f2 Delete type=2 #409
+2020/12/04-10:57:44.011 171f2 Delete type=2 #415
+2020/12/04-10:57:44.012 171f2 Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x1b\x00h\x00t\x00t\x00p\x00s\x00_\x00w\x00w\x00w\x00.\x00k\x00e\x00n\x00y\x00a\x00t\x00a\x00l\x00k\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x1c\x00m\x00o\x00d\x00e\x00r\x00n\x00i\x00z\x00r\x00-\x000\x00.\x005\x003\x001\x008\x000\x006\x004\x002\x005\x003\x008\x001\x002\x001\x000\x007' @ 1977 : 0 .. (end); will stop at (end)

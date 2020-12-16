@@ -1,0 +1,62 @@
+[2020-12-06 13:34:37.805] [sharedprocess] [info] main {"machineId":"706201434dde49ecfd039a268a377baab492792d34a453a2941cf0c62d3a666e","windowId":2}
+[2020-12-06 13:35:17.894] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-06 13:35:25.004] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2020-12-06 13:35:25.727] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 undefined
+[2020-12-06 13:35:26.420] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.coenraads.bracket-pair-colorizer-2-0.2.0: coenraads.bracket-pair-colorizer-2
+[2020-12-06 13:35:26.421] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.2.0
+[2020-12-06 13:35:26.424] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer-2
+[2020-12-06 13:35:26.437] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer-2
+[2020-12-06 13:40:11.430] [sharedprocess] [info] Installing extension: sleistner.vscode-fileutils
+[2020-12-06 13:40:12.369] [sharedprocess] [info] Downloaded extension: sleistner.vscode-fileutils undefined
+[2020-12-06 13:40:12.712] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.sleistner.vscode-fileutils-3.4.0: sleistner.vscode-fileutils
+[2020-12-06 13:40:12.712] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/sleistner.vscode-fileutils-3.4.0
+[2020-12-06 13:40:12.718] [sharedprocess] [info] Installation completed. sleistner.vscode-fileutils
+[2020-12-06 13:40:12.738] [sharedprocess] [info] Extensions installed successfully: sleistner.vscode-fileutils
+[2020-12-06 13:40:32.575] [sharedprocess] [info] Installing extension: file-icons.file-icons
+[2020-12-06 13:40:33.988] [sharedprocess] [info] Downloaded extension: file-icons.file-icons undefined
+[2020-12-06 13:40:34.442] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.file-icons.file-icons-1.0.24: file-icons.file-icons
+[2020-12-06 13:40:34.442] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/file-icons.file-icons-1.0.24
+[2020-12-06 13:40:34.444] [sharedprocess] [info] Installation completed. file-icons.file-icons
+[2020-12-06 13:40:34.450] [sharedprocess] [info] Extensions installed successfully: file-icons.file-icons
+[2020-12-06 13:43:48.057] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2020-12-06 13:43:49.883] [sharedprocess] [info] Downloaded extension: eamodio.gitlens undefined
+[2020-12-06 13:43:52.466] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.eamodio.gitlens-10.2.1: eamodio.gitlens
+[2020-12-06 13:43:52.466] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/eamodio.gitlens-10.2.1
+[2020-12-06 13:43:52.492] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2020-12-06 13:43:52.554] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2020-12-06 13:44:22.404] [sharedprocess] [info] Installing extension: yzhang.markdown-all-in-one
+[2020-12-06 13:44:24.705] [sharedprocess] [info] Downloaded extension: yzhang.markdown-all-in-one undefined
+[2020-12-06 13:44:29.969] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.yzhang.markdown-all-in-one-3.4.0: yzhang.markdown-all-in-one
+[2020-12-06 13:44:29.978] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/yzhang.markdown-all-in-one-3.4.0
+[2020-12-06 13:44:29.985] [sharedprocess] [info] Installation completed. yzhang.markdown-all-in-one
+[2020-12-06 13:44:29.998] [sharedprocess] [info] Extensions installed successfully: yzhang.markdown-all-in-one
+[2020-12-06 13:44:47.547] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-12-06 13:44:48.324] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme undefined
+[2020-12-06 13:44:52.956] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.pkief.material-icon-theme-4.4.0: pkief.material-icon-theme
+[2020-12-06 13:44:52.957] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/pkief.material-icon-theme-4.4.0
+[2020-12-06 13:44:52.962] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2020-12-06 13:44:52.977] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2020-12-06 13:49:49.429] [sharedprocess] [info] Installing extension: alefragnani.project-manager
+[2020-12-06 13:49:51.460] [sharedprocess] [info] Downloaded extension: alefragnani.project-manager undefined
+[2020-12-06 13:49:52.200] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.alefragnani.project-manager-12.0.1: alefragnani.project-manager
+[2020-12-06 13:49:52.200] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/alefragnani.project-manager-12.0.1
+[2020-12-06 13:49:52.206] [sharedprocess] [info] Installation completed. alefragnani.project-manager
+[2020-12-06 13:49:52.224] [sharedprocess] [info] Extensions installed successfully: alefragnani.project-manager
+[2020-12-06 13:52:15.629] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2020-12-06 13:52:16.576] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag undefined
+[2020-12-06 13:52:16.839] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.formulahendry.auto-close-tag-0.5.9: formulahendry.auto-close-tag
+[2020-12-06 13:52:16.839] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.9
+[2020-12-06 13:52:16.842] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag
+[2020-12-06 13:52:16.850] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-close-tag
+[2020-12-06 13:52:58.343] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-12-06 13:53:00.492] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2020-12-06 13:53:04.871] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.esbenp.prettier-vscode-5.8.0: esbenp.prettier-vscode
+[2020-12-06 13:53:04.872] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/esbenp.prettier-vscode-5.8.0
+[2020-12-06 13:53:04.875] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-12-06 13:53:04.886] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-12-06 13:53:35.736] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2020-12-06 13:53:36.890] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula undefined
+[2020-12-06 13:53:36.992] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.dracula-theme.theme-dracula-2.22.3: dracula-theme.theme-dracula
+[2020-12-06 13:53:36.993] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/dracula-theme.theme-dracula-2.22.3
+[2020-12-06 13:53:36.997] [sharedprocess] [info] Installation completed. dracula-theme.theme-dracula
+[2020-12-06 13:53:37.007] [sharedprocess] [info] Extensions installed successfully: dracula-theme.theme-dracula

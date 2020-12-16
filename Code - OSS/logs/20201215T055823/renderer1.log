@@ -1,0 +1,4 @@
+[2020-12-15 05:58:27.172] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kv3ldulf/Documents/coding/.vscode'
+[2020-12-15 06:04:24.199] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
+[2020-12-15 06:04:24.209] [renderer1] [warning] Settings pattern "settingsSync.*" doesn't match any settings
+[2020-12-15 06:04:24.210] [renderer1] [warning] Settings pattern "sync.*" doesn't match any settings

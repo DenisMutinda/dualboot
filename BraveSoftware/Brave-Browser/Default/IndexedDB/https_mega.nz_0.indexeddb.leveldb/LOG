@@ -1,0 +1,5 @@
+2020/12/17-00:08:20.168 2a31 Reusing MANIFEST /home/kv3ldulf/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/17-00:08:22.176 3ef4 Level-0 table #5: started
+2020/12/17-00:08:22.179 3ef4 Level-0 table #5: 236 bytes OK
+2020/12/17-00:08:22.182 3ef4 Delete type=0 #3
+2020/12/17-00:08:22.183 3ef4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

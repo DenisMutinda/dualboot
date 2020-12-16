@@ -1,0 +1,5 @@
+2020/12/03-19:19:35.986 26165 Reusing MANIFEST /home/kv3ldulf/.config/vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-19:22:26.758 26165 Level-0 table #5: started
+2020/12/03-19:22:26.763 26165 Level-0 table #5: 2022 bytes OK
+2020/12/03-19:22:26.767 26165 Delete type=0 #3
+2020/12/03-19:22:26.768 26165 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

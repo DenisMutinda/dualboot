@@ -1,0 +1,15 @@
+2020/12/03-09:37:28.539 270d Reusing MANIFEST /home/kv3ldulf/.config/vivaldi/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-09:37:28.540 270d Recovering log #4
+2020/12/03-09:37:28.540 270d Reusing old log /home/kv3ldulf/.config/vivaldi/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000004.log 
+2020/12/03-09:37:38.479 2d88 Level-0 table #8: started
+2020/12/03-09:37:38.486 2d88 Level-0 table #8: 19976 bytes OK
+2020/12/03-09:37:38.491 2d88 Delete type=0 #4
+2020/12/03-09:37:38.491 2d88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/03-09:37:38.492 2d88 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 697 : 0
+2020/12/03-09:37:38.492 2d88 Compacting 1@1 + 1@2 files
+2020/12/03-09:37:38.497 2d88 Generated table #9@1: 40 keys, 9906 bytes
+2020/12/03-09:37:38.498 2d88 Compacted 1@1 + 1@2 files => 9906 bytes
+2020/12/03-09:37:38.501 2d88 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/03-09:37:38.502 2d88 Delete type=2 #8
+2020/12/03-09:37:38.502 2d88 Delete type=2 #5
+2020/12/03-09:37:38.502 2d88 Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 697 : 0 .. (end); will stop at (end)

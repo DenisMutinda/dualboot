@@ -1,0 +1,24 @@
+2020/12/06-09:34:24.567 3e8 Reusing MANIFEST /home/kv3ldulf/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/06-09:34:24.568 3e8 Recovering log #187
+2020/12/06-09:34:24.569 3e8 Reusing old log /home/kv3ldulf/.config/vivaldi/Default/Local Storage/leveldb/000187.log 
+2020/12/06-09:35:11.504 3f2 Level-0 table #191: started
+2020/12/06-09:35:11.510 3f2 Level-0 table #191: 9689 bytes OK
+2020/12/06-09:35:11.515 3f2 Delete type=0 #187
+2020/12/06-09:40:09.865 bcb Level-0 table #193: started
+2020/12/06-09:40:09.874 bcb Level-0 table #193: 144881 bytes OK
+2020/12/06-09:40:09.877 bcb Delete type=0 #190
+2020/12/06-09:41:13.619 966 Level-0 table #195: started
+2020/12/06-09:41:13.627 966 Level-0 table #195: 143125 bytes OK
+2020/12/06-09:41:13.634 966 Delete type=0 #192
+2020/12/06-09:41:13.635 bcb Compacting 4@0 + 1@1 files
+2020/12/06-09:41:13.677 bcb Generated table #196@0: 762 keys, 572551 bytes
+2020/12/06-09:41:13.677 bcb Compacted 4@0 + 1@1 files => 572551 bytes
+2020/12/06-09:41:13.688 bcb compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/06-09:41:13.689 bcb Delete type=2 #188
+2020/12/06-09:41:13.689 bcb Delete type=2 #195
+2020/12/06-09:41:13.689 bcb Delete type=2 #186
+2020/12/06-09:41:13.689 bcb Delete type=2 #191
+2020/12/06-09:41:13.689 bcb Delete type=2 #193
+2020/12/06-09:42:57.192 bcb Level-0 table #198: started
+2020/12/06-09:42:57.195 bcb Level-0 table #198: 14726 bytes OK
+2020/12/06-09:42:57.199 bcb Delete type=0 #194

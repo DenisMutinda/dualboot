@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'FiraCode Nerd Font', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": true,
+    "editor.renderControlCharacters": false
+}

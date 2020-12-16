@@ -1,0 +1,8 @@
+[2020-12-06 13:59:19.721] [sharedprocess] [info] main {"machineId":"706201434dde49ecfd039a268a377baab492792d34a453a2941cf0c62d3a666e","windowId":2}
+[2020-12-06 13:59:59.772] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-06 14:04:50.641] [sharedprocess] [info] Installing extension: akamud.vscode-theme-onedark
+[2020-12-06 14:04:51.569] [sharedprocess] [info] Downloaded extension: akamud.vscode-theme-onedark undefined
+[2020-12-06 14:04:51.701] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.akamud.vscode-theme-onedark-2.2.2: akamud.vscode-theme-onedark
+[2020-12-06 14:04:51.703] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/akamud.vscode-theme-onedark-2.2.2
+[2020-12-06 14:04:51.706] [sharedprocess] [info] Installation completed. akamud.vscode-theme-onedark
+[2020-12-06 14:04:51.714] [sharedprocess] [info] Extensions installed successfully: akamud.vscode-theme-onedark

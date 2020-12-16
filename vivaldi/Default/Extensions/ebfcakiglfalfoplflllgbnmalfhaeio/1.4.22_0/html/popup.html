@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/inc/tachyons-4.0.4.css">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="/src/colorjoe.css">
+    <link rel="stylesheet" type="text/css" href="/font-awesome.css">
+    <script src="/src/jquery.js"></script>
+    <script src="/src/colorjoe.js"></script>
+
+    <script src="/inc/pusher.color.min.js"></script>
+    <script src="/src/popup.js" async></script>
+    <link rel="stylesheet" href="./bootstrap.css">
+</head>
+
+
+<body>
+    <header>
+        <img src="/img/logo.png" style="float: left;">
+        <div id="pick">
+            <h1>Pick</h1>
+            <img src="/img/target.png">
+        </div>
+    </header>
+
+    <div class="color-picker">
+        <div class="selector">
+            <select class="form-control" id="colorType">
+                <option id="selectedCol" value="sel" selected>Selected Color</option>
+                <option id="dominantCol" value="dom">Dominant Color</option>
+              </select>
+        </div>
+
+        <div class="w-100" id="colorPicker"></div>
+
+        <div class="color-data">
+            <div class="selected-color"></div>
+            <div class="color-value">
+                <input title="Copy to clipboard" type="text" class="form-control" id="colorValue" value="#FFFFFF" readonly>
+            </div>
+            <div class="arrows">
+                <div id="upArrow"><i class="fa fa-angle-up" aria-hidden="true"></i></div>
+                <div id="downArrow"><i class="fa fa-angle-down" aria-hidden="true"></i></div>
+            </div>
+        </div>
+
+        <div class="color-type-container">
+            <h1 id="colType">HEX</h1>
+        </div>
+
+    </div>
+
+    <div class="recent-box">
+        <span class="title">Recent</span>
+        <div class="recent-colors">
+            <div id="color-1" class="rec-col"></div>
+            <div id="color-2" class="rec-col"></div>
+            <div id="color-3" class="rec-col"></div>
+            <div id="color-4" class="rec-col"></div>
+            <div id="color-5" class="rec-col"></div>
+            <div id="color-6" class="rec-col"></div>
+            <div id="color-7" class="rec-col"></div>
+            <div id="color-8" class="rec-col"></div>
+            <div id="color-9" class="rec-col"></div>
+        </div>
+
+        <div id="pick-message" style="display: none; margin-top: 15px;"></div>
+    </div>
+
+
+</body>
+</html>

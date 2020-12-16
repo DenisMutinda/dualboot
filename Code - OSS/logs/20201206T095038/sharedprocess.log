@@ -1,0 +1,9 @@
+[2020-12-06 09:50:42.857] [sharedprocess] [info] main {"machineId":"706201434dde49ecfd039a268a377baab492792d34a453a2941cf0c62d3a666e","windowId":2}
+[2020-12-06 09:50:42.925] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kv3ldulf/.config/Code - OSS/User/snippets'
+[2020-12-06 09:51:22.902] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-06 09:59:25.021] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2020-12-06 09:59:26.301] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code undefined
+[2020-12-06 09:59:26.439] [sharedprocess] [info] Extracted extension to /home/kv3ldulf/.vscode-oss/extensions/.arcticicestudio.nord-visual-studio-code-0.15.0: arcticicestudio.nord-visual-studio-code
+[2020-12-06 09:59:26.445] [sharedprocess] [info] Renamed to /home/kv3ldulf/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.15.0
+[2020-12-06 09:59:26.449] [sharedprocess] [info] Installation completed. arcticicestudio.nord-visual-studio-code
+[2020-12-06 09:59:26.456] [sharedprocess] [info] Extensions installed successfully: arcticicestudio.nord-visual-studio-code

@@ -1,0 +1,20 @@
+{
+   "color_pick_btn": {
+      "message": "Pick color"
+   },
+   "description": {
+      "message": "ಬಣ್ಣ ಪಿಕ್ಕರ್ ಉಪಕರಣವನ್ನು ವೆಬ್ಪುಟಗಳನ್ನು ಸುಲಭವಾಗಿ ಎಕ್ಸ್ಟ್ರ್ಯಾಕ್ಟ್ ಬಣ್ಣಗಳನ್ನು"
+   },
+   "dominant_color": {
+      "message": "Dominant color"
+   },
+   "name": {
+      "message": "Getcolor"
+   },
+   "select_color": {
+      "message": "Select color"
+   },
+   "selected_color": {
+      "message": "Selected color"
+   }
+}

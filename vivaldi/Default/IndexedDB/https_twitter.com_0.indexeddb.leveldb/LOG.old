@@ -1,0 +1,5 @@
+2020/12/03-05:18:47.238 677e Reusing MANIFEST /home/kv3ldulf/.config/vivaldi/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-05:26:37.159 6e1b Level-0 table #5: started
+2020/12/03-05:26:37.162 6e1b Level-0 table #5: 1262 bytes OK
+2020/12/03-05:26:37.165 6e1b Delete type=0 #3
+2020/12/03-05:26:37.165 6e1b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

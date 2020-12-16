@@ -1,0 +1,8 @@
+2020/12/06-09:42:13.120 bcb Reusing MANIFEST /home/kv3ldulf/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/06-09:42:13.121 bcb Recovering log #124
+2020/12/06-09:42:13.121 bcb Reusing old log /home/kv3ldulf/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000124.log 
+2020/12/06-09:42:51.117 e4d Level-0 table #128: started
+2020/12/06-09:42:51.117 e4d Level-0 table #128: 0 bytes OK
+2020/12/06-09:42:51.123 e4d Delete type=0 #124
+2020/12/06-09:42:51.123 e4d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/06-09:42:51.124 e4d Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,225 @@
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('OpenSans-Regular.ttf')
+}
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: bold;
+    src: url('OpenSans-Bold.ttf')
+}
+
+@font-face {
+    font-family: 'PTSerif';
+    font-style: normal;
+    font-weight: 400;
+    src: url('PTSerif-Regular.ttf')
+}
+
+@font-face {
+    font-family: 'PTSerif';
+    font-style: normal;
+    font-weight: bold;
+    src: url('PTSerif-Bold.ttf')
+}
+
+/* Main */
+html, body {
+    background: linear-gradient(180deg, #91A9FF 0%, #28429F 100%) !important;
+    width: 370px;
+}
+
+h1, h2, h3, h4, label, p, h5 {
+    color: #AEAEAE;
+}
+
+header {
+    padding: 9px 16px;
+    height: 60px;
+    width: 100%;
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ffffff2e;
+
+}
+
+#pick {
+    float: right;
+    width: 82px;
+    height: 35px;
+    border-radius: 20px;
+    background: #B455FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#pick:hover {
+    background: #882CD1 !important;
+}
+
+#pick:active {
+    background: #6C15B1 !important;
+}
+
+#pick h1 {
+    font-family: "OpenSans";
+    font-weight: bold;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    margin-right: 5px;
+}
+
+.recent-box {
+    padding: 20px 16px;
+    width: 100%;
+    border-top: 1px solid #ffffff2e;
+}
+
+.recent title {
+    font-family: "OpenSans";
+    font-size: 14px;
+    color: #57585D;
+}
+
+.rec-col {
+    width: 31px;
+    height: 31px;
+    border: 2px solid #EEEEEE;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
+    background: #9e9e9e;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.recent-colors {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+
+.color-picker {
+    padding: 20px 16px;
+    width: 100%;
+}
+
+#colorType {
+    width: 45%;
+    text-align: center;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    background: transparent !important;
+    color: white !important;
+}
+
+select, select option {
+    font-family: "OpenSans" !important;
+    font-size: 14px !important;
+    color: #57585D !important;
+}
+
+#colorPicker {
+    height: 190px;
+}
+
+.color-data {
+    width: 100%;
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.selected-color {
+    width: 31px;
+    height: 31px;
+    border: 2px solid #EEEEEE;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
+    background: #9e9e9e;
+    border-radius: 100%;
+}
+
+#colorType:hover {
+    color: rebeccapurple !important;
+}
+
+.color-value input {
+    cursor: pointer;
+    text-align: center;
+    width: 265px;
+    font-family: 'OpenSans';
+    font-size: 16px;
+    color: #6C6C6C;
+}
+
+.arrows {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-flow: column;
+    flex-direction: column;
+    margin-right: 5px;
+}
+
+.arrows div {
+    cursor: pointer;
+    color: white;
+    height: 100%;
+}
+
+#colType {
+    font-family: 'PTSerif';
+    font-weight: bold;
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 0;
+}
+
+.color-type-container {
+    text-align: center;
+    width: 100%;
+    margin: 0 10px;
+}
+
+#pick-message {
+    font-family: 'OpenSans';
+    font-weight: bold;
+    font-size: 16px;
+    color: #AEAEAE;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+
+a:hover {
+    color: white !important;
+}
+
+a {
+    padding-top: 0 !important;
+    padding-bottom: 1.7rem !important;
+}
+
+select:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.title {
+    color: white;
+}
+
+.normal {
+    color: white !important;
+    font-size: 21px;
+    text-align: center;
+}

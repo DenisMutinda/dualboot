@@ -1,0 +1,5 @@
+2020/12/03-19:16:23.390 25c6d Reusing MANIFEST /home/kv3ldulf/.config/vivaldi/Default/IndexedDB/https_collegereadiness.collegeboard.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-19:16:55.395 25c6c Level-0 table #5: started
+2020/12/03-19:16:55.399 25c6c Level-0 table #5: 854 bytes OK
+2020/12/03-19:16:55.403 25c6c Delete type=0 #3
+2020/12/03-19:16:55.403 25c6c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

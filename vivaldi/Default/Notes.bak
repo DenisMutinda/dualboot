@@ -1,0 +1,25 @@
+{
+   "checksum": "8dfca5ec1b518eff2454c1262ce91a10",
+   "children": [ {
+      "children": [  ],
+      "date_added": "13251364961218567",
+      "guid": "00000000-0000-4000-a000-000000000003",
+      "id": "2",
+      "subject": "Other Notes",
+      "type": "other"
+   }, {
+      "children": [  ],
+      "date_added": "13251364961218576",
+      "guid": "00000000-0000-4000-a000-000000000004",
+      "id": "3",
+      "subject": "Trash",
+      "type": "trash"
+   } ],
+   "date_added": "13251364961218563",
+   "guid": "00000000-0000-4000-a000-000000000002",
+   "id": "1",
+   "subject": "Notes",
+   "sync_metadata": "CoEBCgcIs/4NEgE0EgAaWGhBVkltSXNxeTdJYXdaNXV3RXpCU2FUTUgvNjQrekVxUmlXWW9BaWRKa2JPd29XLzJVejNQTlVqdmdMNTZ0WjZPNEJXYURRQjY5dkszcE9MT0VoQUZRPT0gASoYaUpCbHdIcUxzVWpYREZrd0pMeHBldz09El4IAxJaChxVMHZLYkR4L2R0czhEdWRVbkxlaGREU2RRaUU9Eg48Uz50cmFzaF9ub3RlcxgAIAAoADADOABAAEocQmJjdzNRWW5SeGh4dWJVek9DZWZtZVZWZlFrPVoAEl4IAhJaChx2dFdKZDZkOUVnU3dBTkpqNjJkRURXd1RxZjQ9Eg48Uz5vdGhlcl9ub3RlcxgAIAAoADACOABAAEocQmJjdzNRWW5SeGh4dWJVek9DZWZtZVZWZlFrPVoAEl0IARJZChxXWW5LM0UxeHNyVnlQdDJwRWdPeC9qWnVtaE09Eg08Uz5tYWluX25vdGVzGAAgACgAMAQ4AEAAShxCYmN3M1FZblJ4aHh1YlV6T0NlZm1lVlZmUWs9WgAYACD974qS4i4=",
+   "type": "folder",
+   "version": 1
+}

@@ -1,0 +1,39 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "icon-128.png",
+      "default_popup": "html/popup.html",
+      "default_title": "__MSG_name__"
+   },
+   "commands": {
+      "activate": {
+         "description": "__MSG_select_color__",
+         "suggested_key": {
+            "default": "Alt+P"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "src/jquery.js", "averageColor.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://*.googleapis.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNES9bhDnLqcYKpYbc0gu1TplJnkIlCf/1kvM1MAScr6ngJyS/8P+xXAMULia3xLots9eGQ0yzdO58MqqsKGuLIO+pKUxbQ0WmB/t8IkoYTw6HI6pOnw4NK4odhgmJ1r2g4jH5fwl03e8m6npUtSVFPYKPO9P/aAMSsSLS2fbzOKsBktniNxDczr68Iu2dhPuP0vV0uaThVqk8LYOGD6G6o0FWjNCPa/Xt9Mvg8+Jd/RQTsd06J86Rp0P1QS7fc/gpSbP7BTpHzw/kXWzNb7ykq3x9FwfXJRUta1M0sXgMHM/hufrj8YviXXrDZxS7KEWam1/Mk+jIEcrRvuE7qGGQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "storage", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.22",
+   "web_accessible_resources": [ "inc/jquery-2.1.0.min.js", "inc/jquery.scrollstop.js", "colorPicker.js", "inject/anchor-cursor-default.css", "inject/colorPicker.css", "inject/anchor-cursor-crosshair.css" ]
+}

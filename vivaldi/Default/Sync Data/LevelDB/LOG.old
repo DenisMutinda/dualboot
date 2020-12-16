@@ -1,0 +1,42 @@
+2020/12/06-09:34:24.535 3f3 Reusing MANIFEST /home/kv3ldulf/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/12/06-09:34:24.536 3f3 Recovering log #244
+2020/12/06-09:34:24.543 3f3 Reusing old log /home/kv3ldulf/.config/vivaldi/Default/Sync Data/LevelDB/000244.log 
+2020/12/06-09:34:42.574 3e8 Level-0 table #248: started
+2020/12/06-09:34:42.584 3e8 Level-0 table #248: 466917 bytes OK
+2020/12/06-09:34:42.589 3e8 Delete type=0 #244
+2020/12/06-09:34:42.590 400 Compacting 4@0 + 1@1 files
+2020/12/06-09:34:42.627 400 Generated table #249@0: 174 keys, 311031 bytes
+2020/12/06-09:34:42.632 400 Compacted 4@0 + 1@1 files => 311031 bytes
+2020/12/06-09:34:42.635 400 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/06-09:34:42.636 400 Delete type=2 #243
+2020/12/06-09:34:42.636 400 Delete type=2 #245
+2020/12/06-09:34:42.636 400 Delete type=2 #239
+2020/12/06-09:34:42.636 400 Delete type=2 #241
+2020/12/06-09:34:42.636 400 Delete type=2 #248
+2020/12/06-09:38:34.096 990 Level-0 table #251: started
+2020/12/06-09:38:34.106 990 Level-0 table #251: 484529 bytes OK
+2020/12/06-09:38:34.112 990 Delete type=0 #247
+2020/12/06-09:41:36.184 966 Level-0 table #253: started
+2020/12/06-09:41:36.194 966 Level-0 table #253: 409592 bytes OK
+2020/12/06-09:41:36.199 966 Delete type=0 #250
+2020/12/06-09:42:42.896 d97 Level-0 table #255: started
+2020/12/06-09:42:42.907 d97 Level-0 table #255: 497036 bytes OK
+2020/12/06-09:42:42.914 d97 Delete type=0 #252
+2020/12/06-09:48:27.809 1297 Level-0 table #257: started
+2020/12/06-09:48:27.824 1297 Level-0 table #257: 520573 bytes OK
+2020/12/06-09:48:27.830 1297 Delete type=0 #254
+2020/12/06-09:48:27.831 15d5 Compacting 4@0 + 1@1 files
+2020/12/06-09:48:27.841 15d5 Generated table #258@0: 174 keys, 142308 bytes
+2020/12/06-09:48:27.841 15d5 Compacted 4@0 + 1@1 files => 142308 bytes
+2020/12/06-09:48:27.847 15d5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/06-09:48:27.847 15d5 Delete type=2 #253
+2020/12/06-09:48:27.847 15d5 Delete type=2 #255
+2020/12/06-09:48:27.847 15d5 Delete type=2 #251
+2020/12/06-09:48:27.847 15d5 Delete type=2 #249
+2020/12/06-09:48:27.847 15d5 Delete type=2 #257
+2020/12/06-10:05:49.245 3950 Level-0 table #260: started
+2020/12/06-10:05:49.259 3950 Level-0 table #260: 463490 bytes OK
+2020/12/06-10:05:49.263 3950 Delete type=0 #256
+2020/12/06-10:08:49.003 1da9 Level-0 table #262: started
+2020/12/06-10:08:49.014 1da9 Level-0 table #262: 522265 bytes OK
+2020/12/06-10:08:49.018 1da9 Delete type=0 #259
